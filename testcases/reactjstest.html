@@ -59,7 +59,7 @@
                         for (var i = 0; i < this.props.data.length; i++) {
                             items.push(React.createElement("div", { className: "row" },
                                 React.createElement("div", { className: "col-md-12 test-data" },
-                                    React.createElement("span", { className: this.props.selected === this.props.data[i].id ? "selected" : "", onClick: this.select.bind(null, this.props.data[i]) }, this.props.data[i].label)
+                                    React.createElement("span", { className: this.props.selected === this.props.data[i].id ? "selected" : "" }, this.props.data[i].label)
                                 )
                             ));
                         }
