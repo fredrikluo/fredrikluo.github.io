@@ -13,18 +13,18 @@ Google 最近正式给出了时间表： 2015年一月份开始，除了非常�
 <http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html>
 
 <span style="font-size: 12pt;"><em>呃，这个东西其实还是蛮重要，因为大家喜闻乐见的Flash, 就是NPAPI插件。</em></span>  
-[<img src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/2015728113343-e1438054503779.png" alt="2015728113343" width="656" height="510" class="alignnone size-full wp-image-223" />][1]
+<img src="/wp-content/uploads/2015/07/2015728113343-e1438054503779.png" alt="2015728113343" class="alignnone size-full wp-image-223" />
 
 而其他浏览器厂商，比如Opera，火狐，也纷纷表态会逐渐淘汰NPAPI.
 
 <div>
-  <a href="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png"><img class="alignnone  wp-image-177" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png" alt="Screen Shot 2015-07-28 at 12.25.36 AM" width="827" height="134" /></a>
+  <a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png"><img class="alignnone  wp-image-177" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png" alt="Screen Shot 2015-07-28 at 12.25.36 AM" width="827" height="134" /></a>
 </div>
 
 <span style="font-size: 12pt;"><em>Opera: 我早就说了啊</em></span>
 
 <div>
-  <a href="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png"><img class="alignnone  wp-image-178" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png" alt="Screen Shot 2015-07-28 at 12.27.29 AM" width="824" height="90" /></a>
+  <a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png"><img class="alignnone  wp-image-178" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png" alt="Screen Shot 2015-07-28 at 12.27.29 AM" width="824" height="90" /></a>
 </div>
 
 <span style="font-size: 12pt;"><em>火狐 :我还是会支持的，只是大家要一起来淘汰这个技术.</em></span>
@@ -68,7 +68,7 @@ W3C 非常识相的很快就把插件机制纳入到 HTML4 标准里面。 W3C �
 
 我们来看看NPAPI插件和浏览器的关系是什么, 同时对比下和同样执行网络下载代码的 Javascript 引擎的位置，
 
-[<img src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-1.25.21-AM.png" alt="Screen Shot 2015-07-28 at 1.25.21 AM" width="579" height="324" class="alignnone size-full wp-image-202" />][2]
+<img src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-1.25.21-AM.png" alt="Screen Shot 2015-07-28 at 1.25.21 AM" width="579" height="324" class="alignnone size-full wp-image-202" />
 
 看懂了吧， 你以为是NPAPI是插件是吗？其实它和浏览器是平级运行的，它甚至可以打开网页，给你安一个木马，然后随手帮你关掉杀毒软件。什么，你说NPAPI不就40几个API嘛， 少年，你想多了，NPAPI不限制插件自由访问系统所有的API.
 
@@ -83,7 +83,7 @@ W3C 非常识相的很快就把插件机制纳入到 HTML4 标准里面。 W3C �
 这个是业界伙伴们的态度:
 
 <div>
-  <a href="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-26-at-10.57.48-PM.png"><img class="alignnone size-full wp-image-180" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-26-at-10.57.48-PM.png" alt="Screen Shot 2015-07-26 at 10.57.48 PM" width="576" height="213" /></a>
+  <a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-26-at-10.57.48-PM.png"><img class="alignnone size-full wp-image-180" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-26-at-10.57.48-PM.png" alt="Screen Shot 2015-07-26 at 10.57.48 PM" width="576" height="213" /></a>
 </div>
 
 <div>
@@ -91,7 +91,7 @@ W3C 非常识相的很快就把插件机制纳入到 HTML4 标准里面。 W3C �
 </div>
 
 <div>
-  <a href="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.40.36-AM.png"><img class="alignnone size-full wp-image-181" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.40.36-AM.png" alt="Screen Shot 2015-07-28 at 12.40.36 AM" width="682" height="121" /></a>
+  <a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.40.36-AM.png"><img class="alignnone size-full wp-image-181" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.40.36-AM.png" alt="Screen Shot 2015-07-28 at 12.40.36 AM" width="682" height="121" /></a>
 </div>
 
 <div>
@@ -109,7 +109,7 @@ W3C 非常识相的很快就把插件机制纳入到 HTML4 标准里面。 W3C �
 不过Adobe认怂了。 事实上Adobe很早就开始发布PPAI的版本。
 
 <div>
-  <img class="alignnone size-full wp-image-182" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-26-at-10.57.04-PM.png" alt="Screen Shot 2015-07-26 at 10.57.04 PM" width="399" height="409" />
+  <img class="alignnone size-full wp-image-182" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-26-at-10.57.04-PM.png" alt="Screen Shot 2015-07-26 at 10.57.04 PM" width="399" height="409" />
 </div>
 
 所以如果你这几天再看到插件无法运行的对话框，如果上面写的是Flash, 你只需要去下载一个最新的ppai的flash 插件，或者下载一个新版的Chrome.  因为目前Chrome已经开始内置PPAPI版的Flash。
@@ -121,7 +121,7 @@ W3C 非常识相的很快就把插件机制纳入到 HTML4 标准里面。 W3C �
 PS: 如果你看到的是这个框：
 
 <div>
-  <a href="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/flash-warning.jpg"><img class="alignnone size-large wp-image-175" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/flash-warning-1024x60.jpg" alt="flash-warning" width="640" height="38" /></a>
+  <a href="/wp-content/uploads/2015/07/flash-warning.jpg"><img class="alignnone size-large wp-image-175" src="/wp-content/uploads/2015/07/flash-warning-1024x60.jpg" alt="flash-warning" width="640" height="38" /></a>
 </div>
 
 其实背后的原因还会更复杂一些。 这个是因为前期炒得沸沸扬扬得Hacking team被黑的事件中  
@@ -134,12 +134,10 @@ PS: 如果你看到的是这个框：
 </div>
 
 <p id="pvc_stats_174" class="pvc_stats " element-id="174">
-  <img src="http://www.fredrik-luo.com/blog/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
+  <img src="/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
 </p>
 
 <div class="pvc_clear">
 </div>
 
- [1]: http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/2015728113343-e1438054503779.png
- [2]: http://www.fredrik-luo.com/blog/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-1.25.21-AM.png
  [3]: http://www.csoonline.com/article/2943968/data-breach/hacking-team-hacked-attackers-claim-400gb-in-dumped-data.html
