@@ -1,17 +1,15 @@
 ---
-title: '<!--:en-->Fundation and Earth<!--:--><!--:zh-->Fundation and Earth<!--:-->'
+title: 'Fundation and Earth'
 author: fredrik.luo
 layout: post
-permalink: /?p=35
-categories:
-  - Uncategorized
+permalink: /2013-03-16-fundation-earth
 ---
-<!--:zh-->
+<img class="post-pic" alt="fundation and earth" src="/wp-content/uploads/2013/03/29582.jpg" />
 
-<a href="http://www.fredrik-luo.com/blog/?attachment_id=36" rel="attachment wp-att-36"><img class="alignleft size-full wp-image-36" alt="fundation and earth" src="http://www.fredrik-luo.com/blog/wp-content/uploads/2013/03/29582.jpg" width="176" height="289" /></a>很久没有写点什么东西， 恰巧最近刚刚看完阿西莫夫的 “Fundation and Earth”, 非常好的科幻书之一。给喜欢科幻的人推荐下。
+很久没有写点什么东西， 恰巧最近刚刚看完阿西莫夫的 “Fundation and Earth”, 非常好的科幻书之一。给喜欢科幻的人推荐下。
 
 对于稍微迷过一点科幻的人，阿西莫夫这个名字一定是入雷灌耳。这位兄台是公认的硬科幻大牛之一。 自己本身就是波士顿大学的生化教授，科学素养是极好。 作品里面绝少硬伤。
-
+<!--more-->
 如果你还是没有概念，前几年很火的电影&#8221;I, Robot&#8221;, 就是改编自他的小说，可以说是他写作风格的典型代表了。科幻界里面的什么机器人三大定律[1]啊，也都是这位兄台提出来的。相对之下，很多国内很知名的科幻作品，比如“三体”这类蛮被推崇的东西，基本只能骗骗高中生，任何一个大学物理没有挂科的都能看出满篇的概念性错误。 我一直以为，如果科学素养不够，又想写科幻， 不妨写写软科幻就好了。比如 “银河系漫游指南” 一类的，不也是挺好么。
 
 “Fundation and Earth” 这本书是阿西莫夫最负盛名的&#8221;Fundation&#8221;系列里面的，整个是系列的设定参照了Edward Gibbon的<<罗马帝国兴衰史>> (顺带说一下，也是一本非常好看的书）。写的是从地球帝国开始往外面殖民，之后经历的一些系列的兴衰成败，各种形式的社会组织的进化，反复，反思，寻根溯源，最终大一统为。。。自己去看吧。
@@ -22,14 +20,5 @@ categories:
 
 整本书另外一个很鲜明的特点是很少有基本全是对话为主，单线发展，无数的伏笔，然后最后来解释， 以至于我都觉得阿兄是不是先写了最后一章，然后开始写前面的章节并挖坑。。当然，如果你碰巧看过神剧 <<Lost>>，估计这种坑爹笔法你一点都不会陌生。
 
-[1] 机器人三大定律解释得非常微妙， 书中强调是使用近似语言来解释一个数学模型。这一点也是阿西莫夫很聪明的地方，避免了无数的逻辑悖论。 而且这个数学模型之后也被机器人自己改善，才出现了I, Robot这个故事，甚至是最后银河系共生体本身这个概念。<!--:-->
+[1] 机器人三大定律解释得非常微妙， 书中强调是使用近似语言来解释一个数学模型。这一点也是阿西莫夫很聪明的地方，避免了无数的逻辑悖论。 而且这个数学模型之后也被机器人自己改善，才出现了I, Robot这个故事，甚至是最后银河系共生体本身这个概念。
 
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_35" class="pvc_stats " element-id="35">
-  <img src="http://www.fredrik-luo.com/blog/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>

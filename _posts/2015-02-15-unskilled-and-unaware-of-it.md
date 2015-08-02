@@ -2,13 +2,13 @@
 title: Unskilled and unaware of it
 author: fredrik.luo
 layout: post
-permalink: /?p=91
-categories:
-  - Uncategorized
+permalink: /2015-02-15
 ---
 最近和总部一个新上任的工程VP聊了很多关于管理和产品的话题，这位同学是一个读书狂，强迫自己读无数的书， 而且总能发现一些非常优质的阅读材料。下面这个就是他提到的一篇非常有意思的论文［1］， 叫做Unskilled and unaware of it, Cornell 大学一帮玩心理学的人写的。
 
 论文作者们主要是想了解对于一个特定的领域，高手， 一般人， 路人甲对其他人和自己的认知如何。 于是这帮人纠集一帮人做了一系列的实验。 实验细节本身大家有兴趣可以仔细读读论文，不过实验的结果确实非常有意思。
+
+<!--more-->
 
 基本上， 对于任何需要技能的行业，比如设计， 工程 ， 高级管理等， 一个很有意思的现象是，路人甲完全不知道高手比自己好在那里， 或者是好多少， 而且总是低估自己和高手之间的差距。换句话讲， 如果把把路人甲和马云，马化腾放在一起， 路人哥只是知道这两个马哥很厉害， 但却完全搞不懂这两个马哥到底谁更厉害， 更坏的是， 路人哥会非常大幅度的低估自己和这两个马哥的差距。
 
@@ -36,12 +36,3 @@ categories:
 
 ［1］ 论文在： http://psych.colorado.edu/~vanboven/teaching/p7536\_heurbias/p7536\_readings/kruger_dunning.pdf 
 
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_91" class="pvc_stats " element-id="91">
-  <img src="http://www.fredrik-luo.com/blog/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>

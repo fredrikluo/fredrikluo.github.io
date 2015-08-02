@@ -1,18 +1,18 @@
 ---
-title: '<!--:en-->The grand design<!--:--><!--:zh-->The grand design<!--:-->'
+title: The grand design
 author: fredrik.luo
 layout: post
-permalink: /?p=29
-categories:
-  - Uncategorized
+permalink: /2013-01-16-gd
 ---
-<!--:zh-->
+<img class="post-pic" alt="fundation and earth" src="/wp-content/uploads/2013/03/gd.jpg" />
 
-<img src="http://files.myopera.com/luozhiyu/blog/00The_grand_design_book_cover.jpg" alt="tgd" style="float:left;margin:0 10px 10px 0" />霍老爷子的书是一定要顶的。 霍老爷子虽然是神人一个，但是写的科普书还是很好看懂，这本书相对于他之前的好多书比如“时间简史”一类的还要好读一些。[1],后者里面貌似还是有几个公式的，这本书里面一个都没有。
+霍老爷子的书是一定要顶的。 霍老爷子虽然是神人一个，但是写的科普书还是很好看懂，这本书相对于他之前的好多书比如“时间简史”一类的还要好读一些。[1],后者里面貌似还是有几个公式的，这本书里面一个都没有。
 
 而对我来说，除了书里面后几章对最新的量子力学宇宙观的及其精彩的阐述以外，开门见山的阐述各种宇宙观的第一章反而是最有意义。
 
 因为我非常惊喜的发现，我经常和朋友聊天争论的会谈到但经常讲不清楚的问题。比如为什么宗教什么不靠谱，为什么星座不可信等等在第一章里面被讲得那叫一个思维缜密头头是道。
+
+<!--more-->
 
 基本的意思是这样的：
 
@@ -41,15 +41,6 @@ categories:
 在科学世界模型里面心理学已经开始用来治疗心理疾病的时候，各种性格都被研究了几万遍了，试验都做了几十年了，你还在用星座这种简单粗糙的模型来指导你的实践，很多时候我觉得都不是一个智商问题，而是，你实在是太懒了。。[3]
 
 [1] 霍金老爷子其实也写讲义的，比如这本‘The Nature of Space and Time ’ ， 盲目挑战绝对会生活不能自理。  
-[2]http://en.wikipedia.org/wiki/Red\_Queen%27s\_Hypothesis  
-[3]书里面对模型的问题其实没有我这么发散，慢慢看吧:<!--:-->
+[2] http://en.wikipedia.org/wiki/Red\_Queen%27s\_Hypothesis  
+[3] 书里面对模型的问题其实没有我这么发散，慢慢看吧
 
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_29" class="pvc_stats " element-id="29">
-  <img src="http://www.fredrik-luo.com/blog/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>

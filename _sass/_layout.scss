@@ -107,6 +107,11 @@
     }
 }
 
+.index-title
+{
+   margin: 0px;
+   font-size: 36px;
+}
 
 
 /**
@@ -178,6 +183,14 @@
 }
 
 
+.readmore-link {
+    display: block;
+    font-size: 16px;
+    width:100%;
+    text-align:left;
+    padding-top:10px;
+}
+
 
 /**
  * Page content
@@ -210,6 +223,10 @@
 }
 
 
+.post-pic {
+    text-align: center;
+    width:100%;
+}
 /**
  * Posts
  */

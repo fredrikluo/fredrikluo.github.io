@@ -5,6 +5,7 @@ layout: post
 permalink: /2015-8-27
 categories:
   - Uncategorized
+excerpt_separator: <!--more--> 
 ---
 Google 最近正式给出了时间表： 2015年一月份开始，除了非常流行的NPAPI插件，其他一律屏蔽。 2015年四月份开始，所有的NPAPI插件默人都是关闭的，用户需要在高级设定中手动打开。2015年九月份，所有基于NPAPI的插件无法使用.
 
@@ -13,19 +14,16 @@ Google 最近正式给出了时间表： 2015年一月份开始，除了非常�
 <http://blog.chromium.org/2013/09/saying-goodbye-to-our-old-friend-npapi.html>
 
 <span style="font-size: 12pt;"><em>呃，这个东西其实还是蛮重要，因为大家喜闻乐见的Flash, 就是NPAPI插件。</em></span>  
-<img src="/wp-content/uploads/2015/07/2015728113343-e1438054503779.png" alt="2015728113343" class="alignnone size-full wp-image-223" />
+<img src="/wp-content/uploads/2015/07/2015728113343-e1438054503779.png" alt="2015728113343" class="alignnone size-full wp-image-223" width="400px" />
 
+<!--more-->
 而其他浏览器厂商，比如Opera，火狐，也纷纷表态会逐渐淘汰NPAPI.
 
-<div>
-  <a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png"><img class="alignnone  wp-image-177" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png" alt="Screen Shot 2015-07-28 at 12.25.36 AM" width="827" height="134" /></a>
-</div>
+<img class="alignnone  wp-image-177" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.25.36-AM.png" alt="Screen Shot 2015-07-28 at 12.25.36 AM" width="827" height="134" />
 
 <span style="font-size: 12pt;"><em>Opera: 我早就说了啊</em></span>
 
-<div>
-  <a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png"><img class="alignnone  wp-image-178" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png" alt="Screen Shot 2015-07-28 at 12.27.29 AM" width="824" height="90" /></a>
-</div>
+<a href="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png"><img class="alignnone  wp-image-178" src="/wp-content/uploads/2015/07/Screen-Shot-2015-07-28-at-12.27.29-AM.png" alt="Screen Shot 2015-07-28 at 12.27.29 AM" width="824" height="90" /></a>
 
 <span style="font-size: 12pt;"><em>火狐 :我还是会支持的，只是大家要一起来淘汰这个技术.</em></span>
 
