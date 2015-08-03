@@ -25,7 +25,22 @@
 		isLogin : false //是否登陆
 	}
 	</script>
-<script src="./手机新浪网_files/get" charset="utf-8"></script><script src="./手机新浪网_files/saved_resource" charset="utf-8"></script><script src="./手机新浪网_files/sinamobile" charset="utf-8"></script><script src="./手机新浪网_files/allasync" charset="utf-8"></script><script src="./手机新浪网_files/new_langshou_router.d.json" charset="utf-8"></script><link href="./手机新浪网_files/index.min.css" rel="stylesheet" type="text/css"></head>
+<script src="./手机新浪网_files/get" charset="utf-8"></script><script src="./手机新浪网_files/saved_resource" charset="utf-8"></script><script src="./手机新浪网_files/sinamobile" charset="utf-8"></script><script src="./手机新浪网_files/allasync" charset="utf-8"></script><script src="./手机新浪网_files/new_langshou_router.d.json" charset="utf-8"></script><link href="./手机新浪网_files/index.min.css" rel="stylesheet" type="text/css">
+
+<script>
+var css = "main_nav_list{display:table;margin-bottom:10px;width:100%;}.main_nav_list a{display:table-cell;width:14%;text-align:center;white-space:nowrap;color:#333;line-height:1.3}",
+    head = document.head || document.getElementsByTagName('head')[0],
+    style = document.createElement('style');
+
+style.type = 'text/css';
+if (style.styleSheet){
+  style.styleSheet.cssText = css;
+} else {
+  style.appendChild(document.createTextNode(css));
+}
+
+head.appendChild(style);
+</head>
 <body>
 
 <div class="j_sax sina_tj_baner" data-id="PDPS000000054675" style="margin-bottom:0;"></div>
@@ -54,6 +69,7 @@
 		</aside>
 	</header>
 </section>
+
 
 <!-- 导航 -->
                 <ul style ="width:100%;display:table;">
