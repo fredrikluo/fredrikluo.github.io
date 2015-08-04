@@ -4,7 +4,7 @@ author: fredrik.luo
 layout: post
 permalink: /2015-8-27
 categories:
-  - Uncategorized
+  - 知乎问答
 excerpt_separator: <!--more--> 
 ---
 Google 最近正式给出了时间表： 2015年一月份开始，除了非常流行的NPAPI插件，其他一律屏蔽。 2015年四月份开始，所有的NPAPI插件默人都是关闭的，用户需要在高级设定中手动打开。2015年九月份，所有基于NPAPI的插件无法使用.
