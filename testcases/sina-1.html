@@ -97,6 +97,7 @@ for (i = 0; i < cusid_ele.length; i ++)
 
    //detach it from the parent.
    var parent_item = item.parentNode;
+   var sb_item = item.nextSibling;
    parent_item.removeChild(item);
 
    item.style.display="table";
@@ -109,7 +110,7 @@ for (i = 0; i < cusid_ele.length; i ++)
       ele.style.width = "14%";
    }
 
-   parent_item.appendChild(item);
+   parent_item.insertBefore(item, sb_item);
 }
 
 </script>
