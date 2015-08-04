@@ -91,23 +91,26 @@
 <script>
 var cusid_ele = document.getElementsByClassName('main_nav_list');
 
-var item = cusid_ele[0];  
-
-//detach it from the parent.
-var parent_item = item.parent;
-parent_item.removeChild(item);
-
-item.style.display="table";
-item.style.width = "100%";
-
-for (var j = 0; j < item.children.length && j < 7; j++)
+for (i = 0; i < cusid_ele.length; i ++)
 {
-   ele = item.children[j];
-   ele.style.display="table-cell";
-   ele.style.width = "14%";
-}
+   var item = cusid_ele[i];  
 
-parent_item.appendChild(item);
+   //detach it from the parent.
+   var parent_item = item.parentNode;
+   parent_item.removeChild(item);
+
+   item.style.display="table";
+   item.style.width = "100%";
+
+   for (var j = 0; j < item.children.length && j < 7; j++)
+   {
+      ele = item.children[j];
+      ele.style.display="table-cell";
+      ele.style.width = "14%";
+   }
+
+   parent_item.appendChild(item);
+}
 
 </script>
 <!--头条推荐区-->
