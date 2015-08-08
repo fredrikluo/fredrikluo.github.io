@@ -2,7 +2,7 @@
 title: WebAssembly 是个啥
 author: fredrik.luo
 layout: post
-permalink: /2015-8-03
+permalink: /2015-08-08-webasm
 categories:
   - 知乎问答
 excerpt_separator: <!--more--> 
