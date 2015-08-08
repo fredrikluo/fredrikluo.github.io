@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 
 下面要讲的，其实是一个悲伤的故事:
 
-**Javascript，也叫Ecma script, 是这家伙用了 10 天时间赶出来的... ***
+**Javascript，也叫Ecma script, 是这家伙用了 10 天时间赶出来的...**
 
 <img src="/wp-content/uploads/2015/08/ja.jpg" />
 
