@@ -15,9 +15,10 @@ excerpt_separator: <!--more-->
 
 <img src="/wp-content/uploads/2015/08/ja.jpg" />
 
->*所以，各位程序猿们，如果你觉得老板 10 天要你们上线一个 App 是一个丧心病狂的事情，那么可以多想想这位哥。
+>所以，各位程序猿们，如果你觉得老板 10 天要你们上线一个 App 是一个丧心病狂的事情，那么可以多想想这位哥。
 Youtube 上有位哥的采访，你可以听听大神当年的故事。
-<a href="https://www.youtube.com/watch?v=IPxQ9kEaF8c"> The interview </a>*
+
+><a href="https://www.youtube.com/watch?v=IPxQ9kEaF8c"> The interview </a>
 
 <!--more-->
 
