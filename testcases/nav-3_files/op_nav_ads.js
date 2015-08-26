@@ -81,7 +81,7 @@ OUPENG = {
 
 document.addEventListener("DOMContentLoaded",(function() {
     var a = window.BXB;
-    if (a && a.length) {
+    while (a && a.length) {
         OUPENG.loadAd(a.shift())
     }
     }), false);
