@@ -9,7 +9,7 @@ OUPENG = {
         a = document.createElement("script");
         a.charset = "utf-8";
         a.src = b;
-        a.async = !0;
+        //a.async = !0;
         c = document.getElementsByTagName("head")[0].firstChild;
         c.parentNode.insertBefore(a, c)
     },
