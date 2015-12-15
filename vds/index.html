@@ -1,0 +1,12 @@
+<video src="./f16.mp4" id="myVideo">
+  video not supported
+</video>
+
+<script type='text/javascript'>
+    document.getElementById('myVideo').play();
+    document.getElementById('myVideo').addEventListener('ended',myHandler,false);
+    function myHandler(e) {
+        alert("it's over");
+        // What you want to do after the event
+    }
+</script>
