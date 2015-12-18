@@ -2,32 +2,20 @@
 <head>
 </head>
 <body>
-<video src="http://fredrikluo.github.io/vds/f16.mp4" id="myVideo" controls>
+<video src="http://fredrikluo.github.io/vds/f16.mp4" id="myVideo">
   video not supported
 </video>
 
 <script type='text/javascript'>
+    var video = document.getElementById("myVideo");
+    video.setAttribute("controls","controls")   
     document.getElementById('myVideo').play();
-    document.getElementById('myVideo').requestFullscreen();
     document.getElementById('myVideo').addEventListener('ended',myHandler,false);
+    //video.removeAttribute("controls")   
     function myHandler(e) {
         alert("it's over");
         // What you want to do after the event
     }
-</script>
-
-<p onclick="toggleControls();">Toggle</p>
-
-<script>
-var video = document.getElementById("myVideo");
-
-function toggleControls() {
-  if (video.hasAttribute("controls")) {
-     video.removeAttribute("controls")   
-  } else {
-     video.setAttribute("controls","controls")   
-  }
-}
 </script>
 
 </body>
