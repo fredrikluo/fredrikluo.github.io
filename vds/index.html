@@ -15,5 +15,20 @@
         // What you want to do after the event
     }
 </script>
+
+<p onclick="toggleControls();">Toggle</p>
+
+<script>
+var video = document.getElementById("myvideo");
+
+function toggleControls() {
+  if (video.hasAttribute("controls")) {
+     video.removeAttribute("controls")   
+  } else {
+     video.setAttribute("controls","controls")   
+  }
+}
+</script>
+
 </body>
 </html>
