@@ -2,9 +2,7 @@
 title: 沉船 海龟 航海 manta 诗和远方
 author: fredrik.luo
 layout: post
-permalink: /2016-02-03
-categories:
-  - blog
+permalink: /2016-02-03-seychelles
 excerpt_separator: <!--more-->
 ---
 上个月和一帮好基友去了一趟塞舌尔， 虽然这个地方不在非洲大陆上面， 不过也属于非洲的一部分。去之前没有想到非洲和其他地方有那么大的不同。
