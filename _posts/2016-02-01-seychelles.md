@@ -16,22 +16,22 @@ excerpt_separator: <!--more-->
 
 当时被骗了好几次，只是这货实在是太慢了，跑开以后，在附近海域找找总是可以找到。
 
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=q0183tby2ek&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="480px" src="http://v.qq.com/iframe/player.html?vid=q0183tby2ek&tiny=0&auto=0" allowfullscreen></iframe>
 
 这个是 scuba 的时候发现的海龟， 吃珊瑚为生，发现态度有多屌没。。。
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=t01835ree9l&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="480px"  height="480px" src="http://v.qq.com/iframe/player.html?vid=t01835ree9l&tiny=0&auto=0" allowfullscreen></iframe>
 
 如果还不相信动物有多不怕人，可以看看我们 Milan 小哥徒手抓鱼
 
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=k0183g6bx2k&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="480px"  src="http://v.qq.com/iframe/player.html?vid=k0183g6bx2k&tiny=0&auto=0" allowfullscreen></iframe>
 
 以及挡了当地路上一霸龟先生吃草的下场
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=j0183x7u0zp&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="480px"  src="http://v.qq.com/iframe/player.html?vid=j0183x7u0zp&tiny=0&auto=0" allowfullscreen></iframe>
 
 这个是深潜训练的时候，到的沉船，无数的海狼鱼，石头鱼，以及各种鱼。
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=y0183o6jw13&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="480px"  src="http://v.qq.com/iframe/player.html?vid=y0183o6jw13&tiny=0&auto=0" allowfullscreen></iframe>
 
 最后放一个航海好基友视频， 很多人都问我航海是个什么感觉，看看这个就是知道了， 当时船速7节左右 ^^
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=m01839ru0yx&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="480px"  src="http://v.qq.com/iframe/player.html?vid=m01839ru0yx&tiny=0&auto=0" allowfullscreen></iframe>
 
 
