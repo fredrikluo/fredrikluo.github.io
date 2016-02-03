@@ -18,6 +18,7 @@ excerpt_separator: <!--more-->
 
 <iframe frameborder="0" width="100%" height="480px" src="http://v.qq.com/iframe/player.html?vid=q0183tby2ek&tiny=0&auto=0" allowfullscreen></iframe>
 
+<!--more-->
 当时被骗了好几次，只是这货实在是太慢了，跑开以后，在附近海域找找总是可以找到。
 
 这个是 scuba 的时候发现的海龟， 吃珊瑚为生，发现态度有多屌没。。。
