@@ -1,0 +1,26 @@
+Try to catch up with chromium code which I haven't touched for many years.
+
+What has been done:
+* Checked out the code
+* Compiled and ran it on Mac
+
+What to do:
+* What's the best way to debug it, it seems to be very slow. How do I deal with multi process problem.
+
+To use it on server side, it seems like we need to solve those problems:
+
+** Too much memory:
+* Remove the unecessary parts
+- NP plugins
+- Videos ( keep the url but no need to download or render the video)
+- WebRTC 
+* Render into a display list instead of a real picture.
+* Customise the V8 engine to save memory?
+
+** Solve the SPA page problem:
+* Is rendering the SPA just the matter for mapping the content of a json to different places on the page?
+
+** To remove the boiler plate:
+* analyze the pages from the same website to remove all the unecessary parts
+* analyze the pages from time to get the update and index them
+* train for specific pages, e.g.  e-commerce, news, comments
